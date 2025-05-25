@@ -1,17 +1,17 @@
 ## 👋 Hi there, I'm Marcus!
 
-🎓 Final-year AI student at Multimedia University
-🧠 Passionate about building intelligent systems with ML, DL, and Computer Vision
-💬 Exploring Generative AI, Chatbots, and LangChain
-📍 Based in Malaysia | Open to AI/ML roles
+- 🎓 Final-year AI student at Multimedia University
+- 🧠 Passionate about building intelligent systems with ML, DL, and Computer Vision
+- 💬 Exploring Generative AI, Chatbots, and LangChain
+- 📍 Based in Malaysia | Open to AI/ML roles
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, JavaScript, C++, PHP, SQL
-**Frameworks & Tools:** FastAPI, Flask, Next.js, PyTorch, Scikit-learn, OpenCV, LangChain, Ollama
-**Dev Tools:** VS Code, Anaconda, Git, Node-RED, Figma
+* **Languages:** Python, JavaScript, C++, PHP, SQL
+* **Frameworks & Tools:** FastAPI, Flask, Next.js, PyTorch, Scikit-learn, OpenCV, LangChain, Ollama
+* **Dev Tools:** VS Code, Anaconda, Git, Node-RED, Figma
 
 ---
 
