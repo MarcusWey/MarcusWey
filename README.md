@@ -33,7 +33,8 @@
 * Includes "Farmiz" chatbot powered by Gemma3 4b.
 
 **Stack:** YOLOv9s, DeepSORT, ResNet50, FastAPI, Next.js, LangChain, Ollama
-[🎥 Project Video](https://youtu.be/oxByOFggy5E?si=p3GfxdC4rsC-21Ck)
+
+* [🎥 Project Video](https://youtu.be/oxByOFggy5E?si=p3GfxdC4rsC-21Ck)
 
 ### 🍎 Apple Quality and Type Classification System
 
