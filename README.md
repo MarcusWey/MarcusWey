@@ -66,6 +66,7 @@
 * Converted voice input into ride requests using OpenAI Whisper.
 * Used local LLM via Ollama to interpret commands and generate responses.
 * End-to-end voice-based app for booking, fare estimates, and chatbot replies.
+* [repo](https://github.com/stanX19/Pikachu_UM_Hackathon_2025.git)
 
 **Stack:** Whisper, Ollama, LangChain
 
