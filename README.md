@@ -59,7 +59,7 @@
 * Cleaned and visualized data using Pandas, Matplotlib, and Seaborn.
 * Performed t-tests, correlation, IQR filtering, and built custom dashboards for insights.
   
-**Stack:** Pandas, Matplotlib, Seaborn, StatsModels, Jupyter
+**Stack:** Pandas, Matplotlib, Seaborn, StatsModels
 
 ### 🚖 Voice-Controlled Grab App Prototype (UM Hackathon 2025)
 
