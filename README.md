@@ -1,9 +1,9 @@
 ## 👋 Hi there, I'm Marcus!
 
-- 🎓 Final-year AI student at Multimedia University
+- 🎓 AI Fresh Graduate and Entry AI Engineer
 - 🧠 Passionate about building intelligent systems with ML, DL, and Computer Vision
 - 💬 Exploring Generative AI, Chatbots, and LangChain
-- 📍 Based in Malaysia | Open to AI/ML roles
+- 📍 Based in Malaysia
 
 ---
 
